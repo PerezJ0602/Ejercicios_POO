@@ -1,0 +1,8 @@
+C:\Users\bejar\OneDrive\Documentos\Visual Studio 2022\ClasePractica_1\ClasePractica_1\bin\Debug\ClasePractica_1.exe.config
+C:\Users\bejar\OneDrive\Documentos\Visual Studio 2022\ClasePractica_1\ClasePractica_1\bin\Debug\ClasePractica_1.exe
+C:\Users\bejar\OneDrive\Documentos\Visual Studio 2022\ClasePractica_1\ClasePractica_1\bin\Debug\ClasePractica_1.pdb
+C:\Users\bejar\OneDrive\Documentos\Visual Studio 2022\ClasePractica_1\ClasePractica_1\obj\Debug\ClasePractica_1.csproj.AssemblyReference.cache
+C:\Users\bejar\OneDrive\Documentos\Visual Studio 2022\ClasePractica_1\ClasePractica_1\obj\Debug\ClasePractica_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\bejar\OneDrive\Documentos\Visual Studio 2022\ClasePractica_1\ClasePractica_1\obj\Debug\ClasePractica_1.csproj.CoreCompileInputs.cache
+C:\Users\bejar\OneDrive\Documentos\Visual Studio 2022\ClasePractica_1\ClasePractica_1\obj\Debug\ClasePractica_1.exe
+C:\Users\bejar\OneDrive\Documentos\Visual Studio 2022\ClasePractica_1\ClasePractica_1\obj\Debug\ClasePractica_1.pdb
